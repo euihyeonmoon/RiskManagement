@@ -1,0 +1,8 @@
+,author,title,description,url,urlToImage,publishedAt,content,source.id,source.name
+0,drimphgol,Incident Affecting Google Cloud Infrastructure Components,"Article URL: https://status.cloud.google.com/incidents/1xkAB1KmLrh5g3v9ZEZ7
+Comments URL: https://news.ycombinator.com/item?id=29197761
+Points: 7
+# Comments: 1",https://status.cloud.google.com/incidents/1xkAB1KmLrh5g3v9ZEZ7,,2021-11-12T09:56:52Z,"Summary: We are experiencing Networking issues
+Description: Mitigation work is currently underway by our engineering team.
+We do not have an ETA for mitigation at this point.
+The issue is affectin… [+684 chars]",google-news,Google News
